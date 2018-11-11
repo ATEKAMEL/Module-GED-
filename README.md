@@ -1,6 +1,6 @@
 # Module-GED-
 
-#pdfText#
+#pdfText
 #Requirements
 Omeka-S 1.1.1
 pdftotext, utility program part of poppler-utils.
